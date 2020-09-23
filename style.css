@@ -47,7 +47,7 @@
   margin-top: 80px;
 }
 
-#why .row img {
+#why img {  /* RIMOSSO CLASSE ROW DAL CSS PERCHè LE IMG NON AVEVANO PIù IL BACKGROUND COLOR CELESTE */
   background-color: #428bca;
   border-radius: 50%;
   padding: 30px
